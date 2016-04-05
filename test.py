@@ -1,3 +1,4 @@
-print('Hello world')
+print('Hello world';")
 print("H21")
-print ("master only")
+print ("master only;")
+print("hello new feature;")
