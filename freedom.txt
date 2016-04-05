@@ -1,0 +1,2 @@
+print("freedom")
+print("FREEEE!!!!!!!")
